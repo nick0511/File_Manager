@@ -21,20 +21,32 @@ public final class R {
         public static final int activity_vertical_margin=0x7f040001;
     }
     public static final class drawable {
-        public static final int dir=0x7f020000;
+        public static final int doc=0x7f020000;
         public static final int file=0x7f020001;
-        public static final int ic_launcher=0x7f020002;
+        public static final int file_manager=0x7f020002;
+        public static final int folder=0x7f020003;
+        public static final int ic_launcher=0x7f020004;
+        public static final int image=0x7f020005;
+        public static final int mp4=0x7f020006;
+        public static final int music=0x7f020007;
+        public static final int pdf=0x7f020008;
+        public static final int ppt=0x7f020009;
+        public static final int xls=0x7f02000a;
     }
     public static final class id {
-        public static final int action_settings=0x7f080003;
-        public static final int editText=0x7f080002;
+        public static final int action_settings=0x7f080006;
+        public static final int editText=0x7f080005;
         public static final int imageView=0x7f080000;
+        public static final int layout_titlebar=0x7f080003;
         public static final int textView=0x7f080001;
+        public static final int text_title=0x7f080004;
+        public static final int txv1=0x7f080002;
     }
     public static final class layout {
         public static final int activity_main=0x7f030000;
         public static final int file=0x7f030001;
-        public static final int rename_dialog=0x7f030002;
+        public static final int layout_titlebar=0x7f030002;
+        public static final int rename_dialog=0x7f030003;
     }
     public static final class menu {
         public static final int main=0x7f070000;
